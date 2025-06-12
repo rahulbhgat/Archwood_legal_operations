@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment secrets
+.env
+
+
+# Ignore data folder if it's temporary/output
+Data/
+
+# Ignore virtual environments (optional)
+venv/
+.env/

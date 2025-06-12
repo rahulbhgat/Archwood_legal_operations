@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+beautifulsoup4
+PyMuPDF
+sentence-transformers
+chromadb
+langchain
+tqdm

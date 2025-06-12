@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Legal RAG Index",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/services/legal_rag_chroma.py",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug Legal RAG Index",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/services/legal_rag_chroma.py",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}

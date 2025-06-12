@@ -1,0 +1,37 @@
+Case Title: Smith v. Acme Corporation  
+Jurisdiction: Superior Court of California  
+Case Number: 22-CV-01938  
+
+Summary:  
+Plaintiff John Smith filed a civil lawsuit against Acme Corporation, alleging breach of contract and negligent misrepresentation related to a failed software development project. The contract was signed on January 15, 2022, and was intended to deliver a custom CRM system within 6 months.
+
+Facts:  
+- Smith is a small business owner based in Los Angeles.
+- Acme Corporation is a mid-sized software consulting firm.
+- Acme failed to deliver the software as per the agreed timeline.
+- Several project milestones were missed without valid justification.
+- Internal emails presented in evidence show misalignment between sales and delivery teams.
+
+Allegations:  
+1. Breach of contract (failure to deliver).
+2. Negligent misrepresentation (sales promised features never scoped by dev team).
+
+Defendant’s Argument:  
+Acme Corporation claims the project delay was due to “unforeseen scope changes” initiated by the client and that they acted in good faith.
+
+Key Dates:  
+- Contract Signed: January 15, 2022  
+- First Missed Deadline: April 1, 2022  
+- Lawsuit Filed: September 20, 2022
+
+Relief Sought:  
+- $75,000 in damages  
+- Legal fees  
+- Nullification of future maintenance obligations
+
+Notes:  
+The matter is currently in the discovery phase. Depositions are scheduled for March 2023.
+
+---
+
+End of Document.
