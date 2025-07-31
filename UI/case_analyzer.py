@@ -4,7 +4,7 @@ from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
-from services.gorq_llm import query_llama3  # ✅ GPU-based LLM
+from services.gemini_llm import query_gemini  # ✅ GPU-based LLM
 
 UPLOAD_FOLDER = "assets/uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
@@ -40,7 +40,7 @@ You are an expert legal assistant. Based on the case notes below, answer the use
 
 ### Answer:
 """
-    return query_llama3(prompt)
+    return query_gemini(prompt)
 
 def handle_input(vectorstore, chunks):
     query = st.session_state.chat_input
